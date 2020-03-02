@@ -21,4 +21,4 @@ If you use any code part of this repository please cite the bioRxiv preprint: DO
 | [GTEx_split_read_reformatting](GTEx_split_read_reformatting) | Re-format the raw GTEx junction data dowloaded from [recount2](https://jhubiostatistics.shinyapps.io/recount/) for input into [annotatER](https://github.com/SebGuelfi/annotatER) |
 | [optimising_derfinder_cutoff](optimising_derfinder_cutoff) | Optimising the definitions of ERs using a gold-standard set of non-overlapping exons* |
 
-* These elements of the pipeline have been wrapped into an R package that can be found [here](https://github.com/dzhang32/ODER). 
+*These elements of the pipeline have been wrapped into an R package that can be found [here](https://github.com/dzhang32/ODER). 
