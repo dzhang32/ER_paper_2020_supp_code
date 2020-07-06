@@ -1,10 +1,10 @@
 ## Background
 
-This repository contains analysis code for the publication found [here](https://www.biorxiv.org/content/10.1101/499103v2), which aimed at improving the annotation of disease-relevant genes using RNA-sequencing data. The accompanying web-based tool [vizER](https://snca.atica.um.es/browser/app/vizER) can be used to visualise individual genes of interest for evidence of incomplete annotation. 
+This repository contains analysis code for the publication found [here](https://advances.sciencemag.org/content/6/24/eaay8299.full), which aimed at improving the annotation of disease-relevant genes using RNA-sequencing data. The accompanying web-based tool [vizER](https://snca.atica.um.es/browser/app/vizER) can be used to visualise individual genes of interest for evidence of incomplete annotation. 
 
 ## Citation
 
-If you use any code part of this repository please cite the bioRxiv preprint: DOI [10.1101/499103](https://www.biorxiv.org/content/10.1101/499103v2).
+If you use any code part of this repository please cite the Science Advances publication: DOI [10.1126/sciadv.aay8299](https://advances.sciencemag.org/content/6/24/eaay8299.full).
 
 ## Code contents
 
